@@ -1,0 +1,15 @@
+@media (min-width: 768px){
+.col-md-6 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+}
+.bd-highlight {
+    background-color: rgba(86,61,124,0.15);
+    border: 1px solid rgba(86,61,124,0.15);
+}
+
+/* .p-cust{
+padding:10px 5px 25px 5px;
+} */
